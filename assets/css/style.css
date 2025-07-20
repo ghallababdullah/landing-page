@@ -543,7 +543,7 @@ strong {
 }
 
 .about .image {
-  background: url("../img/_MG_0192.jpeg") center center no-repeat;
+  background: url("../assets/img/_MG_0192.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
